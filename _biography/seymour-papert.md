@@ -14,7 +14,7 @@ tags:
   - Smalltalk
   - Xerox Alto
 gallery:
-  - image_url: /images/dynabook.png
+  - image_url: https://github.com/evitse/gr/blob/gh-pages/images/papert.jpg
     caption: "Το Dynabook είναι ένα σχεδιαστικό όραμα του 1968 για ένα φορητό υπολογιστή τύπου τάμπλετ από τον Alan Kay που απευθύνεται σε παιδιά και μπορεί να προγραμματιστεί με στόχο την προσωπική έκφραση και την επεξεργασία της πληροφορίας"
   - image_url: /images/alan-kay.jpg
     caption: "Alan Kay in front of a Xerox Alto and a piano"
