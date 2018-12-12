@@ -8,6 +8,7 @@ categories:
   - definition
 tags:
   - Alan Kay
+  - Seymour Papert
   - Ivan Sutherland
   - Bret Victor
   - Dynabook
