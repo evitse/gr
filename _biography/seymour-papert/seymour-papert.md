@@ -1,7 +1,7 @@
 ---
 author: evitse
 title: "Seymour Papert"
-image_url: /images/seymour-papert.jpg
+image_url: /images/alan-kay.jpg
 caption: "Μαθηματικός και επιστήμονας πληροφορικής, γνωστός για τη συνεισφορά του στους τρόπους με τους οποίους η τεχνολογία μπορεί να υποστηρίξει τη μάθηση."
 categories: 
   - biography
