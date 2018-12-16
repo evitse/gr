@@ -1,7 +1,7 @@
 ---
 author: evitse
 title: "Seymour Papert"
-image_url: /papert.jpg
+image_url: https://github.com/evitse/gr/blob/gh-pages/_biography/seymour-papert/papert.jpg
 caption: "Μαθηματικός και επιστήμονας πληροφορικής, γνωστός για τη συνεισφορά του στους τρόπους με τους οποίους η τεχνολογία μπορεί να υποστηρίξει τη μάθηση."
 categories: 
   - biography
