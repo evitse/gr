@@ -12,6 +12,7 @@ tags:
   - Ivan Sutherland
   - Bret Victor
 ---
+
 {% include bio-papert.md %}
 
 {% include slides.html caption="Εικόνες για την βιογραφία του Σέημουρ Παπέρτ" %}
