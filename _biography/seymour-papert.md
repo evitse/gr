@@ -11,6 +11,8 @@ tags:
   - Seymour Papert
   - Ivan Sutherland
   - Bret Victor
+  - Logo
+  - Lego Mindstorms
 gallery:
   - image_url: /images/dynabook.png
     caption: "Το Dynabook είναι ένα σχεδιαστικό όραμα του 1968 για ένα φορητό υπολογιστή τύπου τάμπλετ από τον Alan Kay που απευθύνεται σε παιδιά και μπορεί να προγραμματιστεί με στόχο την προσωπική έκφραση και την επεξεργασία της πληροφορίας"
