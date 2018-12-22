@@ -1,4 +1,3 @@
-
 ---
 author: evitse
 title: Lisp
