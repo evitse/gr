@@ -1,3 +1,4 @@
+
 ---
 author: evitse
 title: Lisp
@@ -11,6 +12,6 @@ categories:
   - case-study
 tags:
   - Seymour Papert
-  - Logo
+  - Lisp
 ---
 
