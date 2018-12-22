@@ -18,7 +18,7 @@ gallery:
     caption: "Παρόλο που υπάρχουν ορισμένες εκδόσεις της  Logo με compiler, γενικά εφαρμόζεται ως interpreted  γλώσσα. Η αλληλεπίδραση αυτής της προσέγγισης παρέχει στον χρήστη άμεση ανατροφοδότηση σχετικά με τις μεμονωμένες οδηγίες, βοηθώντας έτσι στη διαδικασία debugging και την εκμάθηση"
   - image_url: /images/Seymour_Papert.jpg
     caption: "Ο Σέυμουρ Παπέρτ με ένα ρομπότ-χελώνα"
-  - image_url: /images/smalltalk.jpg
+  - image_url: /images/1024px-Jugend_Hackt_Ost_2016_-_Lego_Mindstorms_wurde_viel_verwendet.jpg
     caption: 'Τα Lego Mindstorms  περιλαμβάνουν το  λογισμικό προγραμματισμού  NXT-G, το οποίο διαθέτει περιβάλλον αλληλεπίδρασης  drag-and-drop .'
 ---
 
